@@ -3,6 +3,7 @@ day01
 
 
 wo shi zhaozhiyong;
+du zi hao e a;
 
 juan do A
 
